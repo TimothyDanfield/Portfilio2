@@ -46,21 +46,10 @@ export const experiences = [
   {
     id: 1,
     year: "2022",
-    position: "Senior Web Developer",
-    company: "shop.com.mm"
+    position: "Kenzie Academy",
+    company: "Kenzie.com"
   },
-  {
-    di: 2,
-    year: "2021",
-    position: "Junior Web Developer",
-    company: "shop.com.mm"
-  },
-  {
-    id: 3,
-    year: "2019",
-    position: "Intern Web Dveloper",
-    company: "shop.com.mm"
-  }
+  
 ]
 export const finishes = [
   {
