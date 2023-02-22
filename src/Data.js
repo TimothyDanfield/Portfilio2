@@ -24,23 +24,23 @@ export const bios = [
     id: 1,
     icon: <FaUser />,
     key: "Name",
-    value: "Abeezarar"
+    value: "Timothy Danfield"
   },
   {
     id: 2,
     icon: <FaPhoneAlt />,
     key: "Phone",
-    value: "+959883271929"
+    value: "+9208105488"
   },
   {
     id: 3,
     icon: <FaPaperPlane />,
     key: "Email",
-    value: "abee02@gmail.com"
+    value: "adanfieldtimothy@gmail.com"
   }
 ]
 
-export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />, <SiTypescript />, <FaReact />, <FaNodeJs />, <FaSass />, <FaFigma />]
+export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />, <SiTypescript />, <FaReact />, <FaNodeJs />]
 
 export const experiences = [
   {
