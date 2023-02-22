@@ -68,21 +68,7 @@ export const finishes = [
     number: '6+',
     itemName: "Years Of Experience"
   },
-  {
-    id: 2,
-    number: "150+",
-    itemName: "Satisfied Customers"
-  },
-  {
-    id: 3,
-    number: "669+",
-    itemName: "Designed Items"
-  },
-  {
-    id: 4,
-    number: "117+",
-    itemName: "Clients Served"
-  }
+
 ]
 export const workImages = [
   {
