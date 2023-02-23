@@ -112,11 +112,11 @@ export const contacts = [
   {
     id: 2,
     icon: <FaPaperPlane />,
-    infoText: "abee02@gmail.com"
+    infoText: "danfieldtimothy@gmail.com"
   },
   {
     id: 3,
     icon: <FaPhoneAlt />,
-    infoText: "+959-883-271-929"
+    infoText: "920-810-5488"
   }
 ]

@@ -34,7 +34,7 @@ const About = () => {
           transition={{ duration: 1 }}
         >
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae at rem, tenetur ad ipsa sequi, optio eius laudantium vero minus maxime laborum est et nemo consequatur nostrum distinctio sed, nulla doloribus officiis ea eligendi explicabo.</p>
+    <p>My name is Timothy Danfield, and I am a full-stack web developer with experience in React, HTML/CSS, Java, and JavaScript. I have a passion for creating beautiful and functional websites that are both user-friendly and visually appealing. I specialize in React, which is a JavaScript library used to create user interfaces. With React, I can create dynamic web applications that are fast and responsive. I also have experience with HTML/CSS, which allows me to create the structure and styling of websites.In addition to React, I also have experience with Java and JavaScript. With these two languages, I can create powerful back-end applications that can interact with databases and APIs. I am always looking for new challenges and opportunities to learn more about web development. If you're looking for someone who is passionate about creating amazing websites using the latest technologies, then look no further!</p>
           {bios.map(bio => {
             return (
               <div className="bio" key={bio.id}>

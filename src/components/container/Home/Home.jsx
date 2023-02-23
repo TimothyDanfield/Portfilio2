@@ -33,8 +33,8 @@ const Home = () => {
         <img src={portfolio} alt="portfolio" />
       </div>
       <div className="profile_text">
-        <h3 className='name'>Hi, I'm <span>Abee Zarar</span> </h3>
-        <span className='job'>Web Developer Based on Myanmar</span>
+        <h3 className='name'>Hi, I'm <span>Timothy Danfield</span> </h3>
+        <span className='job'>Web Developer Based on Minneapolis</span>
         <span className='text'>Passionate<br /> to craft innovative <br />  web products.</span>
         <motion.a
           href="#contact"
