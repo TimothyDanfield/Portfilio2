@@ -67,7 +67,7 @@ const Contact = () => {
             transition={{duration: 0.3}}
             className="btn"
           >
-            <a href="#">Send</a>
+            <a href="danfieldtimothy@gmail.com">Send</a>
           </motion.div>
         </motion.div>
       </div>
