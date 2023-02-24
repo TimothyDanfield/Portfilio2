@@ -7,16 +7,15 @@ import work1 from "./assets/work1.png";
 import work2 from "./assets/work2.png";
 import work3 from "./assets/work3.png";
 import work4 from "./assets/work4.png";
-import work5 from "./assets/work5.png";
-import work6 from "./assets/work6.png";
+
 
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
 export const socialIcons = [
-  <FaDribbble />,
+  
   <FaInstagram />,
   <FaLinkedin />,
-  <BsMedium />
+  
 ]
 
 export const bios = [
@@ -36,7 +35,7 @@ export const bios = [
     id: 3,
     icon: <FaPaperPlane />,
     key: "Email",
-    value: "adanfieldtimothy@gmail.com"
+    value: "danfieldtimothy@gmail.com"
   }
 ]
 
@@ -84,18 +83,7 @@ export const workImages = [
     name: "project 4",
     category: "app"
   },
-  {
-    id: 5,
-    img: work5,
-    name: "project 5",
-    category: 'app'
-  },
-  {
-    id: 6,
-    img: work6,
-    name: "project 6",
-    category: "design"
-  }
+ 
 ]
 
 
@@ -104,11 +92,7 @@ export const workNavs = [
 ]
 
 export const contacts = [
-  {
-    id: 1,
-    icon: <FaMapMarkerAlt />,
-    infoText: "16 Road, TharKayTa , Yangon"
-  },
+ 
   {
     id: 2,
     icon: <FaPaperPlane />,
